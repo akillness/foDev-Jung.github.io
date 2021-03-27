@@ -1,7 +1,7 @@
 title: foDev Jeong
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://fodev-jung.github.io
+url: http://brianmaierjr.github.com/long-haul
 baseurl: "/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
