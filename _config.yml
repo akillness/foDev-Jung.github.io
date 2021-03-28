@@ -14,14 +14,6 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
 
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
 
 navigation:
   - title: Home
@@ -41,4 +33,4 @@ social:
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: foDev-Jung
